@@ -1,0 +1,4 @@
+select count(*) as row_count
+from DM_WORK.FACT_WORK_ORDER;
+
+Select * from DM_WORK.FACT_WORK_ORDER;
